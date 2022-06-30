@@ -8,7 +8,7 @@ Source of Data:
 3. [`Apple`](https://github.com/Loyalsoldier/surge-rules/blob/release/apple.txt) and [`Google`](https://github.com/Loyalsoldier/surge-rules/blob/release/google.txt) from  [@felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
 4. China Mainland IP from [@17mon/china_ip_list](https://github.com/17mon/china_ip_list)
 
-# DOMAIN-SET:
+# Domain/IP Lists
 
 - **Direct Connection Domain direct.txt**：[https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt)
 - **Proxy Required Domain proxy.txt**：[https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt)
