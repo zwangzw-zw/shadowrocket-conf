@@ -5,8 +5,8 @@ Configuration of Shadowrocket, aimed to be simple, yet up to date with latest av
 Source of Data: 
 1. [@Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 2. [@v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
-3. [`Apple`](https://github.com/Loyalsoldier/surge-rules/blob/release/apple.txt) and [`Google`](https://github.com/Loyalsoldier/surge-rules/blob/release/google.txt) from  [@felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)；
-4. China Mainland IP from [@17mon/china_ip_list](https://github.com/17mon/china_ip_list)。
+3. [`Apple`](https://github.com/Loyalsoldier/surge-rules/blob/release/apple.txt) and [`Google`](https://github.com/Loyalsoldier/surge-rules/blob/release/google.txt) from  [@felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
+4. China Mainland IP from [@17mon/china_ip_list](https://github.com/17mon/china_ip_list)
 
 # DOMAIN-SET:
 
