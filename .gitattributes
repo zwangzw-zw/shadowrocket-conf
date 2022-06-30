@@ -9,7 +9,6 @@
 # These files are text and should be normalized (Convert crlf => lf)
 *.gitattributes text
 .gitignore      text
-*.conf          text
 *.md            text diff=markdown
 
 #
@@ -23,3 +22,5 @@
 # Enable syntax highlighting for files with `.gitattributes` extensions.
 #
 *.gitattributes linguist-language=gitattributes
+
+*.conf          linguist-language=config
